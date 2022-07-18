@@ -1,10 +1,9 @@
-import NotificationButton from "../NotificationButton";
+import App from "../../App";
 
 function Login() {
   return (
     <>
-      <h1>Hello world</h1>
-      <NotificationButton />
+      <App />
     </>
   );
 }
